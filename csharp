@@ -1,5 +1,30 @@
 {
-    "name": "csharp",
-    "description": "C# language runner for gauge",
-    "versions": []
+  "name": "csharp",
+  "description": "C# language runner for gauge",
+  "versions": [
+    {
+      "version": "0.9.3.nightly-2017-01-24",
+      "gaugeVersionSupport": {
+        "minimum": "0.6.1",
+        "maximum": ""
+      },
+      "install": {
+        "windows": [],
+        "linux": [],
+        "darwin": []
+      },
+      "DownloadUrls": {
+        "x86": {
+          "windows": "https://dl.bintray.com/gauge/gauge-csharp/gauge-csharp-0.9.3.nightly-2017-01-24.zip",
+          "linux": "https://dl.bintray.com/gauge/gauge-csharp/gauge-csharp-0.9.3.nightly-2017-01-24.zip",
+          "darwin": "https://dl.bintray.com/gauge/gauge-csharp/gauge-csharp-0.9.3.nightly-2017-01-24.zip"
+        },
+        "x64": {
+          "windows": "https://dl.bintray.com/gauge/gauge-csharp/gauge-csharp-0.9.3.nightly-2017-01-24.zip",
+          "linux": "https://dl.bintray.com/gauge/gauge-csharp/gauge-csharp-0.9.3.nightly-2017-01-24.zip",
+          "darwin": "https://dl.bintray.com/gauge/gauge-csharp/gauge-csharp-0.9.3.nightly-2017-01-24.zip"
+        }
+      }
+    }
+  ]
 }
