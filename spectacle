@@ -3,7 +3,7 @@
   "description": "Plugin to export specs to html",
   "versions": [
     {
-      "version": "0.1.0.nightly-2017-02-15",
+      "version": "0.1.1.nightly-2017-04-05",
       "gaugeVersionSupport": {
         "minimum": "0.6.1",
         "maximum": ""
@@ -15,14 +15,14 @@
       },
       "DownloadUrls": {
         "x86": {
-          "windows": "https://dl.bintray.com/gauge/spectacle/windows/spectacle-0.1.0.nightly-2017-02-15-windows.x86.zip",
-          "linux": "https://dl.bintray.com/gauge/spectacle/linux/spectacle-0.1.0.nightly-2017-02-15-linux.x86.zip",
-          "darwin": "https://dl.bintray.com/gauge/spectacle/darwin/spectacle-0.1.0.nightly-2017-02-15-darwin.x86.zip"
+          "windows": "https://dl.bintray.com/gauge/spectacle/windows/spectacle-0.1.1.nightly-2017-04-05-windows.x86.zip",
+          "linux": "https://dl.bintray.com/gauge/spectacle/linux/spectacle-0.1.1.nightly-2017-04-05-linux.x86.zip",
+          "darwin": "https://dl.bintray.com/gauge/spectacle/darwin/spectacle-0.1.1.nightly-2017-04-05-darwin.x86.zip"
         },
         "x64": {
-          "windows": "https://dl.bintray.com/gauge/spectacle/windows/spectacle-0.1.0.nightly-2017-02-15-windows.x86_64.zip",
-          "linux": "https://dl.bintray.com/gauge/spectacle/linux/spectacle-0.1.0.nightly-2017-02-15-linux.x86_64.zip",
-          "darwin": "https://dl.bintray.com/gauge/spectacle/darwin/spectacle-0.1.0.nightly-2017-02-15-darwin.x86_64.zip"
+          "windows": "https://dl.bintray.com/gauge/spectacle/windows/spectacle-0.1.1.nightly-2017-04-05-windows.x86_64.zip",
+          "linux": "https://dl.bintray.com/gauge/spectacle/linux/spectacle-0.1.1.nightly-2017-04-05-linux.x86_64.zip",
+          "darwin": "https://dl.bintray.com/gauge/spectacle/darwin/spectacle-0.1.1.nightly-2017-04-05-darwin.x86_64.zip"
         }
       }
     }
