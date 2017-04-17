@@ -41,4 +41,4 @@ This contains the nightly meta-data of [gauge plugins and language runners](http
     ]
 }
 ```
-* For reference, have a look at our [plugin-install.json](https://github.com/getgauge/gauge-repository/blob/master/java-install.json)
+* For reference, have a look at our [plugin](https://github.com/getgauge/gauge-nightly-repository/blob/master/java)
