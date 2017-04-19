@@ -3,7 +3,7 @@
   "description": "C# language runner for gauge",
   "versions": [
     {
-      "version": "0.10.1.nightly-2017-04-18",
+      "version": "0.10.1.nightly-2017-04-19",
       "gaugeVersionSupport": {
         "minimum": "0.6.1",
         "maximum": ""
@@ -15,14 +15,14 @@
       },
       "DownloadUrls": {
         "x86": {
-          "windows": "https://dl.bintray.com/gauge/gauge-csharp/gauge-csharp-0.10.1.nightly-2017-04-18.zip",
-          "linux": "https://dl.bintray.com/gauge/gauge-csharp/gauge-csharp-0.10.1.nightly-2017-04-18.zip",
-          "darwin": "https://dl.bintray.com/gauge/gauge-csharp/gauge-csharp-0.10.1.nightly-2017-04-18.zip"
+          "windows": "https://dl.bintray.com/gauge/gauge-csharp/gauge-csharp-0.10.1.nightly-2017-04-19.zip",
+          "linux": "https://dl.bintray.com/gauge/gauge-csharp/gauge-csharp-0.10.1.nightly-2017-04-19.zip",
+          "darwin": "https://dl.bintray.com/gauge/gauge-csharp/gauge-csharp-0.10.1.nightly-2017-04-19.zip"
         },
         "x64": {
-          "windows": "https://dl.bintray.com/gauge/gauge-csharp/gauge-csharp-0.10.1.nightly-2017-04-18.zip",
-          "linux": "https://dl.bintray.com/gauge/gauge-csharp/gauge-csharp-0.10.1.nightly-2017-04-18.zip",
-          "darwin": "https://dl.bintray.com/gauge/gauge-csharp/gauge-csharp-0.10.1.nightly-2017-04-18.zip"
+          "windows": "https://dl.bintray.com/gauge/gauge-csharp/gauge-csharp-0.10.1.nightly-2017-04-19.zip",
+          "linux": "https://dl.bintray.com/gauge/gauge-csharp/gauge-csharp-0.10.1.nightly-2017-04-19.zip",
+          "darwin": "https://dl.bintray.com/gauge/gauge-csharp/gauge-csharp-0.10.1.nightly-2017-04-19.zip"
         }
       }
     }
