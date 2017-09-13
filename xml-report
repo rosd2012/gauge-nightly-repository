@@ -3,7 +3,7 @@
   "description": "XML Report plugin for gauge",
   "versions": [
     {
-      "version": "0.2.0.nightly-2017-09-01",
+      "version": "0.2.1.nightly-2017-09-13",
       "gaugeVersionSupport": {
         "minimum": "0.6.1",
         "maximum": ""
@@ -15,14 +15,14 @@
       },
       "DownloadUrls": {
         "x86": {
-          "windows": "https://dl.bintray.com/gauge/xml-report/windows/xml-report-0.2.0.nightly-2017-09-01-windows.x86.zip",
-          "linux": "https://dl.bintray.com/gauge/xml-report/linux/xml-report-0.2.0.nightly-2017-09-01-linux.x86.zip",
-          "darwin": "https://dl.bintray.com/gauge/xml-report/darwin/xml-report-0.2.0.nightly-2017-09-01-darwin.x86.zip"
+          "windows": "https://dl.bintray.com/gauge/xml-report/windows/xml-report-0.2.1.nightly-2017-09-13-windows.x86.zip",
+          "linux": "https://dl.bintray.com/gauge/xml-report/linux/xml-report-0.2.1.nightly-2017-09-13-linux.x86.zip",
+          "darwin": "https://dl.bintray.com/gauge/xml-report/darwin/xml-report-0.2.1.nightly-2017-09-13-darwin.x86.zip"
         },
         "x64": {
-          "windows": "https://dl.bintray.com/gauge/xml-report/windows/xml-report-0.2.0.nightly-2017-09-01-windows.x86_64.zip",
-          "linux": "https://dl.bintray.com/gauge/xml-report/linux/xml-report-0.2.0.nightly-2017-09-01-linux.x86_64.zip",
-          "darwin": "https://dl.bintray.com/gauge/xml-report/darwin/xml-report-0.2.0.nightly-2017-09-01-darwin.x86_64.zip"
+          "windows": "https://dl.bintray.com/gauge/xml-report/windows/xml-report-0.2.1.nightly-2017-09-13-windows.x86_64.zip",
+          "linux": "https://dl.bintray.com/gauge/xml-report/linux/xml-report-0.2.1.nightly-2017-09-13-linux.x86_64.zip",
+          "darwin": "https://dl.bintray.com/gauge/xml-report/darwin/xml-report-0.2.1.nightly-2017-09-13-darwin.x86_64.zip"
         }
       }
     }
