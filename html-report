@@ -3,7 +3,7 @@
   "description": "HTML Report plugin for gauge",
   "versions": [
     {
-      "version": "4.0.3.nightly-2017-09-27",
+      "version": "4.0.3.nightly-2017-10-03",
       "gaugeVersionSupport": {
         "minimum": "0.6.1",
         "maximum": ""
@@ -15,14 +15,14 @@
       },
       "DownloadUrls": {
         "x86": {
-          "windows": "https://dl.bintray.com/gauge/html-report/windows/html-report-4.0.3.nightly-2017-09-27-windows.x86.zip",
-          "linux": "https://dl.bintray.com/gauge/html-report/linux/html-report-4.0.3.nightly-2017-09-27-linux.x86.zip",
-          "darwin": "https://dl.bintray.com/gauge/html-report/darwin/html-report-4.0.3.nightly-2017-09-27-darwin.x86.zip"
+          "windows": "https://dl.bintray.com/gauge/html-report/windows/html-report-4.0.3.nightly-2017-10-03-windows.x86.zip",
+          "linux": "https://dl.bintray.com/gauge/html-report/linux/html-report-4.0.3.nightly-2017-10-03-linux.x86.zip",
+          "darwin": "https://dl.bintray.com/gauge/html-report/darwin/html-report-4.0.3.nightly-2017-10-03-darwin.x86.zip"
         },
         "x64": {
-          "windows": "https://dl.bintray.com/gauge/html-report/windows/html-report-4.0.3.nightly-2017-09-27-windows.x86_64.zip",
-          "linux": "https://dl.bintray.com/gauge/html-report/linux/html-report-4.0.3.nightly-2017-09-27-linux.x86_64.zip",
-          "darwin": "https://dl.bintray.com/gauge/html-report/darwin/html-report-4.0.3.nightly-2017-09-27-darwin.x86_64.zip"
+          "windows": "https://dl.bintray.com/gauge/html-report/windows/html-report-4.0.3.nightly-2017-10-03-windows.x86_64.zip",
+          "linux": "https://dl.bintray.com/gauge/html-report/linux/html-report-4.0.3.nightly-2017-10-03-linux.x86_64.zip",
+          "darwin": "https://dl.bintray.com/gauge/html-report/darwin/html-report-4.0.3.nightly-2017-10-03-darwin.x86_64.zip"
         }
       }
     }
