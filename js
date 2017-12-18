@@ -3,7 +3,7 @@
   "description": "JavaScript language runner for Gauge",
   "versions": [
     {
-      "version": "2.0.3.nightly-2017-12-15",
+      "version": "2.0.4.nightly-2017-12-18",
       "gaugeVersionSupport": {
         "minimum": "0.6.1",
         "maximum": ""
@@ -15,14 +15,14 @@
       },
       "DownloadUrls": {
         "x86": {
-          "windows": "https://dl.bintray.com/gauge/gauge-js/gauge-js-2.0.3.nightly-2017-12-15.zip",
-          "linux": "https://dl.bintray.com/gauge/gauge-js/gauge-js-2.0.3.nightly-2017-12-15.zip",
-          "darwin": "https://dl.bintray.com/gauge/gauge-js/gauge-js-2.0.3.nightly-2017-12-15.zip"
+          "windows": "https://dl.bintray.com/gauge/gauge-js/gauge-js-2.0.4.nightly-2017-12-18.zip",
+          "linux": "https://dl.bintray.com/gauge/gauge-js/gauge-js-2.0.4.nightly-2017-12-18.zip",
+          "darwin": "https://dl.bintray.com/gauge/gauge-js/gauge-js-2.0.4.nightly-2017-12-18.zip"
         },
         "x64": {
-          "windows": "https://dl.bintray.com/gauge/gauge-js/gauge-js-2.0.3.nightly-2017-12-15.zip",
-          "linux": "https://dl.bintray.com/gauge/gauge-js/gauge-js-2.0.3.nightly-2017-12-15.zip",
-          "darwin": "https://dl.bintray.com/gauge/gauge-js/gauge-js-2.0.3.nightly-2017-12-15.zip"
+          "windows": "https://dl.bintray.com/gauge/gauge-js/gauge-js-2.0.4.nightly-2017-12-18.zip",
+          "linux": "https://dl.bintray.com/gauge/gauge-js/gauge-js-2.0.4.nightly-2017-12-18.zip",
+          "darwin": "https://dl.bintray.com/gauge/gauge-js/gauge-js-2.0.4.nightly-2017-12-18.zip"
         }
       }
     }
