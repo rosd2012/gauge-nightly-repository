@@ -1,5 +1,30 @@
 {
   "name": "dotnet",
   "description": "dotnet core language runner for gauge",
-  "versions": []
+  "versions": [
+    {
+      "version": "0.0.1.nightly-2018-02-05",
+      "gaugeVersionSupport": {
+        "minimum": "0.6.1",
+        "maximum": ""
+      },
+      "install": {
+        "windows": [],
+        "linux": [],
+        "darwin": []
+      },
+      "DownloadUrls": {
+        "x86": {
+          "windows": "https://dl.bintray.com/gauge/gauge-dotnet/gauge-dotnet-0.0.1.nightly-2018-02-05.zip",
+          "linux": "https://dl.bintray.com/gauge/gauge-dotnet/gauge-dotnet-0.0.1.nightly-2018-02-05.zip",
+          "darwin": "https://dl.bintray.com/gauge/gauge-dotnet/gauge-dotnet-0.0.1.nightly-2018-02-05.zip"
+        },
+        "x64": {
+          "windows": "https://dl.bintray.com/gauge/gauge-dotnet/gauge-dotnet-0.0.1.nightly-2018-02-05.zip",
+          "linux": "https://dl.bintray.com/gauge/gauge-dotnet/gauge-dotnet-0.0.1.nightly-2018-02-05.zip",
+          "darwin": "https://dl.bintray.com/gauge/gauge-dotnet/gauge-dotnet-0.0.1.nightly-2018-02-05.zip"
+        }
+      }
+    }
+  ]
 }
