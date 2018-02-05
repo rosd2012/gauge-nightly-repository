@@ -1,0 +1,5 @@
+{
+  "name": "dotnet",
+  "description": "dotnet core language runner for gauge",
+  "versions": []
+}
