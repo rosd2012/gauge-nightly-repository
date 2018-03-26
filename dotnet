@@ -3,7 +3,7 @@
   "description": "dotnet core language runner for gauge",
   "versions": [
     {
-      "version": "0.0.1.nightly-2018-03-21",
+      "version": "0.0.1.nightly-2018-03-26",
       "gaugeVersionSupport": {
         "minimum": "0.6.1",
         "maximum": ""
@@ -15,14 +15,14 @@
       },
       "DownloadUrls": {
         "x86": {
-          "windows": "https://dl.bintray.com/gauge/gauge-dotnet/gauge-dotnet-0.0.1.nightly-2018-03-21.zip",
-          "linux": "https://dl.bintray.com/gauge/gauge-dotnet/gauge-dotnet-0.0.1.nightly-2018-03-21.zip",
-          "darwin": "https://dl.bintray.com/gauge/gauge-dotnet/gauge-dotnet-0.0.1.nightly-2018-03-21.zip"
+          "windows": "https://dl.bintray.com/gauge/gauge-dotnet/gauge-dotnet-0.0.1.nightly-2018-03-26.zip",
+          "linux": "https://dl.bintray.com/gauge/gauge-dotnet/gauge-dotnet-0.0.1.nightly-2018-03-26.zip",
+          "darwin": "https://dl.bintray.com/gauge/gauge-dotnet/gauge-dotnet-0.0.1.nightly-2018-03-26.zip"
         },
         "x64": {
-          "windows": "https://dl.bintray.com/gauge/gauge-dotnet/gauge-dotnet-0.0.1.nightly-2018-03-21.zip",
-          "linux": "https://dl.bintray.com/gauge/gauge-dotnet/gauge-dotnet-0.0.1.nightly-2018-03-21.zip",
-          "darwin": "https://dl.bintray.com/gauge/gauge-dotnet/gauge-dotnet-0.0.1.nightly-2018-03-21.zip"
+          "windows": "https://dl.bintray.com/gauge/gauge-dotnet/gauge-dotnet-0.0.1.nightly-2018-03-26.zip",
+          "linux": "https://dl.bintray.com/gauge/gauge-dotnet/gauge-dotnet-0.0.1.nightly-2018-03-26.zip",
+          "darwin": "https://dl.bintray.com/gauge/gauge-dotnet/gauge-dotnet-0.0.1.nightly-2018-03-26.zip"
         }
       }
     }
