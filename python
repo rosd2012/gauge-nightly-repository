@@ -1,0 +1,30 @@
+{
+  "name": "python",
+  "description": "python language runner for gauge",
+  "versions": [
+    {
+      "version": "0.2.4.nightly-2018-03-09",
+      "gaugeVersionSupport": {
+        "minimum": "0.6.1",
+        "maximum": ""
+      },
+      "install": {
+        "windows": [],
+        "linux": [],
+        "darwin": []
+      },
+      "DownloadUrls": {
+        "x86": {
+          "windows": "https://dl.bintray.com/gauge/gauge-python/gauge-python-0.2.4.nightly-2018-03-09.zip",
+          "linux": "https://dl.bintray.com/gauge/gauge-python/gauge-python-0.2.4.nightly-2018-03-09.zip",
+          "darwin": "https://dl.bintray.com/gauge/gauge-python/gauge-python-0.2.4.nightly-2018-03-09.zip"
+        },
+        "x64": {
+          "windows": "https://dl.bintray.com/gauge/gauge-python/gauge-python-0.2.4.nightly-2018-03-09.zip",
+          "linux": "https://dl.bintray.com/gauge/gauge-python/gauge-python-0.2.4.nightly-2018-03-09.zip",
+          "darwin": "https://dl.bintray.com/gauge/gauge-python/gauge-python-0.2.4.nightly-2018-03-09.zip"
+        }
+      }
+    }
+  ]
+}
