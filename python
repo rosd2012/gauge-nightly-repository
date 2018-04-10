@@ -3,7 +3,7 @@
   "description": "python language runner for gauge",
   "versions": [
     {
-      "version": "0.2.4.nightly-2018-03-09",
+      "version": "0.2.6.nightly-2018-04-10",
       "gaugeVersionSupport": {
         "minimum": "0.6.1",
         "maximum": ""
@@ -15,14 +15,14 @@
       },
       "DownloadUrls": {
         "x86": {
-          "windows": "https://dl.bintray.com/gauge/gauge-python/gauge-python-0.2.4.nightly-2018-03-09.zip",
-          "linux": "https://dl.bintray.com/gauge/gauge-python/gauge-python-0.2.4.nightly-2018-03-09.zip",
-          "darwin": "https://dl.bintray.com/gauge/gauge-python/gauge-python-0.2.4.nightly-2018-03-09.zip"
+          "windows": "https://dl.bintray.com/gauge/gauge-python/gauge-python-0.2.6.nightly-2018-04-10.zip",
+          "linux": "https://dl.bintray.com/gauge/gauge-python/gauge-python-0.2.6.nightly-2018-04-10.zip",
+          "darwin": "https://dl.bintray.com/gauge/gauge-python/gauge-python-0.2.6.nightly-2018-04-10.zip"
         },
         "x64": {
-          "windows": "https://dl.bintray.com/gauge/gauge-python/gauge-python-0.2.4.nightly-2018-03-09.zip",
-          "linux": "https://dl.bintray.com/gauge/gauge-python/gauge-python-0.2.4.nightly-2018-03-09.zip",
-          "darwin": "https://dl.bintray.com/gauge/gauge-python/gauge-python-0.2.4.nightly-2018-03-09.zip"
+          "windows": "https://dl.bintray.com/gauge/gauge-python/gauge-python-0.2.6.nightly-2018-04-10.zip",
+          "linux": "https://dl.bintray.com/gauge/gauge-python/gauge-python-0.2.6.nightly-2018-04-10.zip",
+          "darwin": "https://dl.bintray.com/gauge/gauge-python/gauge-python-0.2.6.nightly-2018-04-10.zip"
         }
       }
     }
