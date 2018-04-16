@@ -3,7 +3,7 @@
   "description": "Ruby language runner for gauge",
   "versions": [
     {
-      "version": "0.5.0.nightly-2018-04-11",
+      "version": "0.5.0.nightly-2018-04-16",
       "gaugeVersionSupport": {
         "minimum": "0.6.1",
         "maximum": ""
@@ -15,14 +15,14 @@
       },
       "DownloadUrls": {
         "x86": {
-          "windows": "https://dl.bintray.com/gauge/gauge-ruby/windows/gauge-ruby-0.5.0.nightly-2018-04-11-windows.x86.zip",
-          "linux": "https://dl.bintray.com/gauge/gauge-ruby/linux/gauge-ruby-0.5.0.nightly-2018-04-11-linux.x86.zip",
-          "darwin": "https://dl.bintray.com/gauge/gauge-ruby/darwin/gauge-ruby-0.5.0.nightly-2018-04-11-darwin.x86.zip"
+          "windows": "https://dl.bintray.com/gauge/gauge-ruby/windows/gauge-ruby-0.5.0.nightly-2018-04-16-windows.x86.zip",
+          "linux": "https://dl.bintray.com/gauge/gauge-ruby/linux/gauge-ruby-0.5.0.nightly-2018-04-16-linux.x86.zip",
+          "darwin": "https://dl.bintray.com/gauge/gauge-ruby/darwin/gauge-ruby-0.5.0.nightly-2018-04-16-darwin.x86.zip"
         },
         "x64": {
-          "windows": "https://dl.bintray.com/gauge/gauge-ruby/windows/gauge-ruby-0.5.0.nightly-2018-04-11-windows.x86_64.zip",
-          "linux": "https://dl.bintray.com/gauge/gauge-ruby/linux/gauge-ruby-0.5.0.nightly-2018-04-11-linux.x86_64.zip",
-          "darwin": "https://dl.bintray.com/gauge/gauge-ruby/darwin/gauge-ruby-0.5.0.nightly-2018-04-11-darwin.x86_64.zip"
+          "windows": "https://dl.bintray.com/gauge/gauge-ruby/windows/gauge-ruby-0.5.0.nightly-2018-04-16-windows.x86_64.zip",
+          "linux": "https://dl.bintray.com/gauge/gauge-ruby/linux/gauge-ruby-0.5.0.nightly-2018-04-16-linux.x86_64.zip",
+          "darwin": "https://dl.bintray.com/gauge/gauge-ruby/darwin/gauge-ruby-0.5.0.nightly-2018-04-16-darwin.x86_64.zip"
         }
       }
     }
